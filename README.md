@@ -1,3 +1,5 @@
+Data Structures using C/C++
+
 This project contains implementations for many different types of data structures commonly taught in computer science, and many of which are commonly used in real-world production environments. These basic data structures represent small building blocks upon which large data-processing applications can be built and run efficiently.
 
 This project was created as a reference for myself, as I learned about these data structures and algorithms. Lately it seems to be getting visibility from others. As such, visitors should understand a few things.
